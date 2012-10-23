@@ -1,0 +1,18 @@
+shortcut of SublimeText2-opener @ current folder
+ in MacOS X (Only test MountainLion)
+
+USAGE:
+0.The Sublime Text 2.app MUST be installed into your Application folder.
+1.DL this.
+2.D&D the "SublimeHere.app" into your Application folder. (RECOMMEND)
+3.D&D into your Finder's bar(see image "SEEME.png")
+
+4.click the SublimeHere.app icon then you can see SublimeText2.app will open there.
+
+
+CHANGE ICON:
+You can change the icon of this app.
+
+choose "SublimeHere.app" and open context-menu -> show package > Contents > Resources > 
+
+"applet.icns" is the icon of this app. Let's change it!
